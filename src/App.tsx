@@ -387,12 +387,12 @@ const Benefits = () => {
 
           <div className="relative">
             <div className="aspect-square rounded-sm overflow-hidden opacity-80">
-              <img 
-                src="https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=800" 
-                alt="Modern Architecture" 
-                className="w-full h-full object-cover"
-                referrerPolicy="no-referrer"
-              />
+              <img
+  src="/projetos/mansao-premium.png"
+  alt="Mansão premium pronta"
+  className="w-full h-full object-cover"
+  referrerPolicy="no-referrer"
+/>
             </div>
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full border border-brand-gold/30 scale-110 -z-10"></div>
           </div>
