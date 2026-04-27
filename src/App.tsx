@@ -230,7 +230,7 @@ const About = () => {
           >
             <div className="aspect-[4/5] rounded-sm overflow-hidden premium-shadow">
               <img 
-                src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=800" 
+               src="/projetos/execucao-drywall-premium.png" 
                 alt="Professional Team" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
