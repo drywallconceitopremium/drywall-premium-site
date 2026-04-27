@@ -18,6 +18,7 @@ import {
   ChevronRight,
   Instagram,
   Facebook,
+  Linkedin,
   Mail,
   MapPin
 } from 'lucide-react';
