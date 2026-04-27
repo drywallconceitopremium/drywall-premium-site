@@ -404,7 +404,7 @@ const Benefits = () => {
 
 const Projects = () => {
   const projects = [
-    { title: "Residência Alphaville", category: "Residencial", img: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800" },
+    { title: "Residência Alphaville", category: "Residencial", img: "/projetos/execucao-drywall-premium.png" },
     { title: "Escritório Tech Hub", category: "Corporativo", img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800" },
     { title: "Loja Conceito Jardins", category: "Comercial", img: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800" },
     { title: "Apartamento Loft", category: "Residencial", img: "/projetos/apartamento-loft.png" },
