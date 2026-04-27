@@ -407,7 +407,7 @@ const Projects = () => {
     { title: "Residência Alphaville", category: "Residencial", img: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800" },
     { title: "Escritório Tech Hub", category: "Corporativo", img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800" },
     { title: "Loja Conceito Jardins", category: "Comercial", img: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800" },
-    { title: "Apartamento Loft", category: "Residencial", img: "https://images.unsplash.com/photo-1600607687940-477a63bd39d8?auto=format&fit=crop&q=80&w=800" },
+    { title: "Apartamento Loft", category: "Residencial", img: "/projetos/apartamento-loft.png" },
     { title: "Clínica Odontológica", category: "Comercial", img: "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&q=80&w=800" },
     { title: "Auditório Corporativo", category: "Corporativo", img: "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?auto=format&fit=crop&q=80&w=800" },
   ];
