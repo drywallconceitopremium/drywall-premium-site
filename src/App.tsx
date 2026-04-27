@@ -22,33 +22,6 @@ import {
   MapPin
 } from 'lucide-react';
 
-const INSTAGRAM_URL = "https://instagram.com";
-const FACEBOOK_URL = "https://facebook.com";
-const WHATSAPP_NUMBER = "5521969060505";
-
-const HERO_WHATSAPP_TEXT = encodeURIComponent(
-  "Olá! Vim pelo site da Drywall Pro e quero falar sobre um projeto."
-);
-
-const FORM_WHATSAPP_TEXT = (
-  nome: string,
-  telefone: string,
-  email: string,
-  servico: string,
-  mensagem: string
-) =>
-  encodeURIComponent(
-    `Olá! Vim pelo site da Drywall Pro e quero solicitar um orçamento.
-
-Nome: ${nome}
-Telefone: ${telefone}
-E-mail: ${email}
-Serviço: ${servico}
-Mensagem: ${mensagem}`
-  );
-
-const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${HERO_WHATSAPP_TEXT}`;
-
 // --- Components ---
 
 const Navbar = () => {
